@@ -1,0 +1,19 @@
+#novelwindow {
+	width: 800px;
+	height: 600px;
+	border: 1px solid gray;
+	text-align: center;
+}
+#novelwindow > h1 {
+	margin-top: 200px;
+	font-size: 32px;
+}
+#novelwindow > h3 {
+	margin-top: 200px;
+	font-size: 32px;
+}
+#novelwindow > form > button {
+	width: 200px;
+	height: 60px;
+	margin-bottom: 10px;
+}
